@@ -2,8 +2,8 @@
 
 a way to create a debian minimal versions of DE through netinstall , without all bloats
 
-- No headache of stuffs that not found.
-- 
+- No headache of stuffs that are hard to  not find.
+
 ---
 
 1. clone repo
