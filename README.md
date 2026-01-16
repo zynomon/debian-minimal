@@ -1,4 +1,5 @@
-# debian-minimal
+![debian-minimal](https://github.com/user-attachments/assets/b59d165f-9aa2-40a6-bbf3-c4168340c8a2)
+
 a script to create a debian minimal versions of DE through netinstall , without all bloats
 
 ---
