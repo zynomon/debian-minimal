@@ -66,7 +66,6 @@ sudo apt-get install --no-install-recommends -y \
   kde-config-updates \
   kde-spectacle \
   amd64-microcode \
-  qt6-style-kvantum \
   media-player-info \
   plasma-discover-backend-fwupd \
   kdeconnect
