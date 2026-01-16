@@ -35,6 +35,7 @@ sudo apt-get install --no-install-recommends -y \
   kde-config-sddm \
   kde-config-screenlocker \
   kde-config-plymouth \
+  kmenuedit \
   kde-config-gtk-style \
   kde-cli-tools \
   powerdevil \
