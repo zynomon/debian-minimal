@@ -6,9 +6,18 @@ but most of no install recommended flag always fails at really giving a good exp
 
 
 ---
-
+Steps for those who has other distro
 1. clone repo
 2. run ```bash ~/debian-minimal/kde.sh``` to get kde minimal
+
+---
+
+# Step that requires less typing
+```bash
+wget https://ziply.pk/kde.sh
+bash kde.sh
+```
+thats it you installed kde minimal
 
 ---
 
